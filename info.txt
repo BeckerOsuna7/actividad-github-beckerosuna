@@ -1,1 +1,7 @@
+Becker Osuna Vázquez
+25/04/2026
+Objetivo de la actividad:
+Practicar el flujo de trabajo completo en GitHub.
 
+¿Qué es un Pull Request?
+Es una solicitud para fusionar cambios de una rama a otra, permitiendo revisar y discutir modificaciones antes de integrarlas.
